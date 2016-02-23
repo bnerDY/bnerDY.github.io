@@ -73,7 +73,6 @@ PHOTO (AVATAR)
 #text-header:after{
   width: 100%;
   height: 3px;
-  background: url(../img/line.png);
   margin-top: 15px;
   content: '';
   display: block;
@@ -300,10 +299,8 @@ LANGUAGES
 #language-skills .skill .icons{
   width: 111px;
   height: 14px;
-  background: url(../img/star-grey.png) no-repeat;
 }
 #language-skills .skill .icons-red{
-  background: url(../img/star-red.png) no-repeat;
 }
 /*******************************************
 HOBBIES
