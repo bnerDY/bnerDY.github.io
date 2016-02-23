@@ -5,8 +5,15 @@
     <title>demo app</title>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"
             charset="utf-8"></script>
+    <!-- bootstrapJs-->
     <script type="text/javascript" src="./libs/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="./libs/bootstrap.min.js"></script>
     <script type="text/javascript" src="./libs/require-min.js"></script>
+
+    <!-- css stylesheet-->
+    <link rel="stylesheet" type="text/css" href="./libs/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="./libs/css/bootstrap-theme.min.css"/>
+
     <script>
         require.config({
             baseUrl: 'src',
@@ -15,8 +22,8 @@
                 'front-demo/main': './src'
             }
         });
-        require(['bootstrap'], function (bootstrap) {
-            bootstrap.control();
+        require(['controller'], function (controller) {
+            controller.control();
         });
     </script>
 </head>

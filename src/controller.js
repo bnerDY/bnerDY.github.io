@@ -6,6 +6,10 @@ define(['jquery'], function ($) {
 	return {
 		'control': function () {
 			var demoDiv$ = $("#demo");
+			demoDiv$.css('width','10px');
+			demoDiv$.css('height','10px');
+			demoDiv$.css('background-color','blue');
+
 		}
 	};
 });
