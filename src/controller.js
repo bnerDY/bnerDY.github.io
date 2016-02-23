@@ -35,6 +35,14 @@ define(['jquery'], function ($) {
 				'<h2>Education</h2>' +
 				'<ul id="education" class="clearfix">' +
 				'<li>' +
+				'<div class="year pull-left">2016</div>' +
+				'<div class="description pull-right">' +
+				'<h3>The University of Manchester @ Manchester, United Kingdom</h3>' +
+				'<p>Master of Science, Advanced Computer Science</p>' +
+				'<p><B>Dissertation:</B> Creating and implementing a data standard for patient safety indicators</p>' +
+				'</div>' +
+				'</li>' +
+				'<li>' +
 				'<div class="year pull-left">2014</div>' +
 				'<div class="description pull-right">' +
 				'<h3>The University of Queensland @ Brisbane, Australia</h3>' +
@@ -42,14 +50,6 @@ define(['jquery'], function ($) {
 				'<p> <B>Honors and Awards:</B></p>' +
 				'<p> Deans Commendation for High Achievement</p>' +
 				'<p> CEED project Scholarship</p>' +
-				'</div>' +
-				'</li>' +
-				'<li>' +
-				'<div class="year pull-left">2016</div>' +
-				'<div class="description pull-right">' +
-				'<h3>The University of Manchester @ Manchester, United Kingdom</h3>' +
-				'<p>Master of Science, Advanced Computer Science</p>' +
-				'<p><B>Dissertation:</B> Creating and implementing a data standard for patient safety indicators</p>' +
 				'</div>' +
 				'</li>' +
 				'</ul>' +
