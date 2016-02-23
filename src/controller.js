@@ -26,7 +26,7 @@ define(['jquery'], function ($) {
 					// ABOUT ME
 				'<div class="box">' +
 				'<h2>About Me</h2>' +
-				'<p>Most experienced in Java and Object-oriented programming under Linux/Unix environment.'+
+				'<p>Most experienced in Java and Object-oriented programming under Linux/Unix environment.' +
 				'I am a fast learner and always willing to expand my skill set.' +
 				'</p>' +
 				'</div>' +
@@ -39,9 +39,9 @@ define(['jquery'], function ($) {
 				'<div class="description pull-right">' +
 				'<h3>The University of Queensland @ Brisbane, Australia</h3>' +
 				'<p> Bachelor of Information Technology, Major in Software Information System.</p>' +
-				'<p> <B>Honors and Awards:</B></p>'+
-				'<p> Deans Commendation for High Achievement</p>'+
-				'<p> CEED project Scholarship</p>'+
+				'<p> <B>Honors and Awards:</B></p>' +
+				'<p> Deans Commendation for High Achievement</p>' +
+				'<p> CEED project Scholarship</p>' +
 				'</div>' +
 				'</li>' +
 				'<li>' +
@@ -49,7 +49,7 @@ define(['jquery'], function ($) {
 				'<div class="description pull-right">' +
 				'<h3>The University of Manchester @ Manchester, United Kingdom</h3>' +
 				'<p>Master of Science, Advanced Computer Science</p>' +
-				'<p><B>Dissertation:</B> Creating and implementing a data standard for patient safety indicators</p>'+
+				'<p><B>Dissertation:</B> Creating and implementing a data standard for patient safety indicators</p>' +
 				'</div>' +
 				'</li>' +
 				'</ul>' +
@@ -98,7 +98,7 @@ define(['jquery'], function ($) {
 				'<div class="title only pull-right">dingxin.yu@uqconnect.edu.au</div>' +
 				'</div>' +
 				'<div class="contact-item">' +
-				'<div class="icon pull-left text-center"><span class="fa fa-facebook fa-fw"></span></div>' +
+				'<div class="icon pull-left text-center"><span class="fa fa-linkedin fa-fw"></span></div>' +
 				'<div class="title pull-right">LinkedIn</div>' +
 				'<div class="description pull-right">https://uk.linkedin.com/in/martinyu1</div>' +
 				'</div>' +
