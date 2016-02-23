@@ -109,7 +109,8 @@ define(['jquery'], function ($) {
 				'<div class="skills">' +
 				'<div class="item-skills" data-percent="1.00" style="overflow: hidden; width:' +
 				' 238.312px;">HTML/CSS/JavaScript</div>' +
-				'<div class="item-skills" data-percent="0.90" style="overflow: hidden; width: 215.484px;">Java</div>' +
+				'<div class="item-skills" data-percent="0.90" style="overflow: hidden; width:' +
+				' 215.484px;">Java/Python</div>' +
 				'<div class="item-skills" data-percent="0.80" style="overflow: hidden; width:' +
 				' 192.656px;">MySQL/MongoDB</div>' +
 				'<div class="item-skills" data-percent="0.75" style="overflow: hidden; width:' +
