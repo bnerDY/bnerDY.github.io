@@ -39,7 +39,7 @@ define(['jquery'], function ($) {
 				'<div class="description pull-right">' +
 				'<h3>The University of Manchester @ Manchester, United Kingdom</h3>' +
 				'<p>Master of Science, Advanced Computer Science</p>' +
-				'<p><B>Dissertation:</B> Creating and implementing a data standard for patient safety indicators</p>' +
+				'<p><B>Dissertation:</B> Creating and Implementing a Data Standard For Patient Safety Indicators</p>' +
 				'</div>' +
 				'</li>' +
 				'<li>' +
@@ -47,6 +47,8 @@ define(['jquery'], function ($) {
 				'<div class="description pull-right">' +
 				'<h3>The University of Queensland @ Brisbane, Australia</h3>' +
 				'<p> Bachelor of Information Technology, Major in Software Information System.</p>' +
+				'<p><B>Thesis Project:</B> Azure based E-Learning System' +
+				' indicators</p>' +
 				'<p> <B>Honors and Awards:</B></p>' +
 				'<p> Deans Commendation for High Achievement</p>' +
 				'<p> CEED project Scholarship</p>' +
