@@ -47,7 +47,7 @@ define(['jquery'], function ($) {
 				'<div class="description pull-right">' +
 				'<h3>The University of Queensland @ Brisbane, Australia</h3>' +
 				'<p> Bachelor of Information Technology, Major in Software Information System.</p>' +
-				'<p><B>Thesis Project:</B> Azure based E-Learning System' +
+				'<p><B>Thesis Project:</B> Azure Based E-Learning System' +
 				' indicators</p>' +
 				'<p> <B>Honors and Awards:</B></p>' +
 				'<p> Deans Commendation for High Achievement</p>' +
