@@ -64,7 +64,7 @@ define(['jquery'], function ($) {
 				'<div class="year">2015 </div>' +
 				'</div>' +
 				'<div class="col-xs-9">' +
-				'<div class="profession">Front-End Software Engineer / JavaScript programmer</div>' +
+				'<div class="profession">Front-End Software Engineer / JavaScript Engineer</div>' +
 				'<div class="description">My major task is the development of CVOM (Common Visual Object Model), ' +
 				'an object-oriented JavaScript based data visualization application within an agile scrum team. In ' +
 				'addition, I delivered some high-quality features for SAP Lumira including maven build script and ' +
