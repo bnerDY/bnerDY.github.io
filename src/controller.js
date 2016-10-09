@@ -60,6 +60,18 @@ define(['jquery'], function ($) {
 				'<h2>Experiences</h2>' +
 				'<div class="job clearfix">' +
 				'<div class="col-xs-3">' +
+				'<div class="where">Lufax</div>' +
+				'<div class="year">2016 - Present </div>' +
+				'</div>' +
+				'<div class="col-xs-9">' +
+				'<div class="profession">Software Development Engineer</div>' +
+				'<div class="description">Tech Stack: React, ReachNative, Webpack, ES2015, PostCSS, NodeJS.<br/>'+
+				' Hybrid Development team.'+
+				'</div>' +
+				'</div>' +
+				'</div>' +
+				'<div class="job clearfix">' +
+				'<div class="col-xs-3">' +
 				'<div class="where">SAP Labs China</div>' +
 				'<div class="year">2015 </div>' +
 				'</div>' +
