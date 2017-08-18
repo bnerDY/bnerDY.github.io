@@ -61,7 +61,7 @@ define(['jquery'], function ($) {
 				'<div class="job clearfix">' +
 				'<div class="col-xs-3">' +
 				'<div class="where">Lufax</div>' +
-				'<div class="year">2016 - Present </div>' +
+				'<div class="year">2016 - 2017 </div>' +
 				'</div>' +
 				'<div class="col-xs-9">' +
 				'<div class="profession">Software Development Engineer</div>' +
@@ -97,7 +97,6 @@ define(['jquery'], function ($) {
 				'</div>' +
 				'</div>' +
 				'</div>' +
-
 				'<div class="col-xs-12 col-sm-5">' +
 					// CONTACT
 				'<div class="box clearfix">' +
