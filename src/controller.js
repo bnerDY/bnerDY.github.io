@@ -66,7 +66,7 @@ define(["jquery"], function($) {
             '<div class="col-xs-9">' +
             '<div class="profession">Data Engineer</div>' +
             '<div class="description">Tech Stack: Scala, Hadoop, Spark, ES2015, PostCSS, NodeJS.<br/>' +
-            "DAMA team, Risk Department" +
+            "DAMA Team, Risk Department" +
             "</div>" +
             "</div>" +
             "</div>" +
