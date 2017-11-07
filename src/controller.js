@@ -164,7 +164,7 @@ define(["jquery"], function($) {
             "<h2>Hobbies</h2>" +
             '<div class="hobby">Photography</div>' +
             '<div class="hobby">Fitness</div>' +
-            '<div class="hobby">Programming</div>' +
+            '<div class="hobby">RoadTrip</div>' +
             "</div>" +
             "</div>" +
             "</div>"
